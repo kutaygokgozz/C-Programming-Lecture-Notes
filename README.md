@@ -16,7 +16,7 @@ Dosyaların büyük çoğunluğu doğrudan teorik bilgi vermek yerine, **örnek 
 ## 🛠️ Kodların Durumu ve Hata Payı
 Bu kütüphanedeki kodlar dersi aldığım dönemde, tamamen kendi öğrenme denemelerim sırasında yazılmıştır. Sınavlara hazırlıkta başarılı sonuçlar vermiş olsalar da, profesyonel bir yazılım projesi standartlarında olmadıkları için gözden kaçmış ufak hatalar veya optimize edilmemiş kısımlar barındırabilir. Kodları incelerken ve çalıştırırken bu durumu göz önünde bulundurmanızı tavsiye ederim. 
 
-## ⚠️ Önemli Uyarı (Akademik Dürüstlük)
+## ⚠️ Uyarı
 Bu repodaki tüm kodlar **referans** amacıyla açık kaynak olarak paylaşılmıştır. Buradaki kodların **birebir kopyalanarak resmi ödev veya laboratuvar teslimlerinde kullanılması kesinlikle yasaktır.** Bu durum intihal sayılabilir ve doğabilecek akademik disiplin sorunlarından kodu kopyalayan kişi sorumludur. 
 
 
