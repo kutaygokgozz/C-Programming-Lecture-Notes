@@ -87,7 +87,7 @@ int main() {
     Sleep(3000);
     moveAndClickMouse(608,148);
     Sleep(2000);
-    char song[]={"Yalnizsin ve Bu IYI Bisey"};  // ascii ile çalışmıyor virtual key code ile çalışıyor büyük harfleri yazarsan ascii ile dogru denk gelmis olur ve dogru calisir.
+    char song[]={"YALNIZSIN VE BU IYI BISEY"};  // ascii ile çalışmıyor virtual key code ile çalışıyor büyük harfleri yazarsan ascii ile dogru denk gelmis olur ve dogru calisir.
     int i;
     for(i=0;i<strlen(song);i++)
     {
@@ -106,3 +106,4 @@ int main() {
 
     return 0;
 }
+
